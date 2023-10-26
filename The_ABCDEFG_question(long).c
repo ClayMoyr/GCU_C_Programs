@@ -32,4 +32,4 @@ int main() {
     printf("Result of the expression ((a+b/c*d+e)*(f+g)) is: %lf\n", result);
 
     return 0;
-}
+} 
